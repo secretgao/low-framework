@@ -1,0 +1,15 @@
+{
+	"name":"low",
+	"description":"php framework low",
+	"type":"framework",
+	"keywords":[
+		"php","php framework low"
+	],
+	"require":{
+		"php":">= 5.4.0",
+		"filp/whoops":"*",
+		"symfony/var-dumper":"*",
+		"twig/twig":"*"
+	}
+	
+}
